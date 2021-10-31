@@ -1,0 +1,4 @@
+10/31/21
+Got as far to get my wanted initial inputs.
+May want to add specifics like turns or trucks (takes up two * than one * for a car), and figure out how to do rates of how cars flow and a timer to judge them as well.
+FIX THE THE FOR LOOP NEXT TIME, IM JUST TRYING TO GET A START FOR RIGHT NOW!
