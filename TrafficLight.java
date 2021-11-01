@@ -44,12 +44,12 @@ public class TrafficLight {
 		
 		//Print out a traffic 4-way
 		//Prints out the top to bottom road.
-		for (int j = 0; j < 5; j++) {
-			System.out.printf(" ");
-			for (int i = 0; i < 5; i++) {
-				System.out.println(RoadBorder1);
-			}
-			}
+		for(int i = 0; i < 5; i++) {
+			System.out.print(" ");
 		}
-		
+		for (int j = 0; j < 5; j++) {
+			System.out.println(RoadBorder1);
+		}
+		System.out.printf(CrossWalk);
 	}
+}
